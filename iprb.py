@@ -1,0 +1,5 @@
+k,m,n=raw_input().split()
+k=int(k)
+m=int(m)
+n=int(n)
+print 1-(m*(m-1)/8.0+m*n/2.0+n*(n-1)/2.0)/(((k+m+n)*(k+m+n-1)/2.0)+0.0)
