@@ -1,0 +1,14 @@
+Name: Vinu K S
+Roll Number: 10CO100
+Rosalind Login Name: vinusebastian92
+
+Time Taken:
+
+INDC:ASsuming constant time for calculating factorial , O(n)
+
+ITWV:O(n*n^2)=O(n^3) in the worst case
+
+RNAS:O(nlogn) in the average case,O(n^2) in the worst case
+
+Comment:
+I could not solve ITWV,LREP,NKEW as I had not solved the previous ones.I still tried ITWV with sample output. 

@@ -1,0 +1,4 @@
+Name: Vinu K S
+Roll Number: 10CO100
+Rosalind Login Name: vinusebastian92
+Assumption for codon table: I created a file called codon table with the required mappings and have attached the same.

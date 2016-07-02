@@ -1,0 +1,82 @@
+Name: Vinu K S
+Roll Number: 10CO100
+Rosalind Login Name: vinusebastian92
+
+Time Taken:
+
+1)KMER:
+real	0m0.150s
+user	0m0.104s
+sys	0m0.024s
+
+2)KMP:
+real	0m0.499s
+user	0m0.168s
+sys	0m0.008s
+
+3)LCSQ:
+real	0m0.778s
+user	0m0.744s
+sys	0m0.032s
+ 
+4)LEXV
+real	0m0.145s
+user	0m0.052s
+sys	0m0.020s
+
+5)MMCH
+real	0m0.041s
+user	0m0.036s
+sys	0m0.004s
+
+6)PDST
+real	0m0.058s
+user	0m0.040s
+sys	0m0.016s
+
+7)RSTR
+real	0m0.082s
+user	0m0.040s
+sys	0m0.004s
+
+8)SSET
+real	0m0.292s
+user	0m0.036s
+sys	0m0.004s
+
+9)ASPC
+real	0m9.948s
+user	0m9.365s
+sys	0m0.016s
+
+10)EDIT
+real	0m0.826s
+user	0m0.796s
+sys	0m0.028s
+
+11)EVAL
+real	0m0.063s
+user	0m0.028s
+sys	0m0.016s
+
+12)MOTZ
+real	0m3.847s
+user	0m3.828s
+sys	0m0.012s
+
+13)SCSP
+real	0m0.170s
+user	0m0.048s
+sys	0m0.008s
+
+14)SETO
+real	0m0.637s
+user	0m0.120s
+sys	0m0.016s
+
+15)SPEC
+real	0m0.049s
+user	0m0.040s
+sys	0m0.008s
+
+
